@@ -1,0 +1,26 @@
+   27  pwd
+   28  ls
+   29  ls /opt
+   30  cp -r /opt/HDE .
+   31  ls
+   32  cd HDE/
+   33  ls
+   34  cd x86_64.linux/
+   35  ls
+   36  pwd
+   37  vi release.com 
+   38  echo $PWD
+   39  vi release.com 
+   40  bash release.com 
+   41  ls
+   42  cd examples/
+   43  ls
+   44  cd dcps
+   45  ls
+   46  cd Tutorial/
+   47  ls
+   48  cd cpp
+   49  ls
+   50  make
+   51  history
+   52  history > commands
